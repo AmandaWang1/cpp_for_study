@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6-定义变量", "6-定义变量\6-定义变量.vcxproj", "{9248B84A-5280-44B7-9D4D-4289ED820C46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9248B84A-5280-44B7-9D4D-4289ED820C46}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9248B84A-5280-44B7-9D4D-4289ED820C46}.Debug|Win32.Build.0 = Debug|Win32
+		{9248B84A-5280-44B7-9D4D-4289ED820C46}.Release|Win32.ActiveCfg = Release|Win32
+		{9248B84A-5280-44B7-9D4D-4289ED820C46}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
