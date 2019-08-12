@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "25-bitset_一些函数", "25-bitset_一些函数\25-bitset_一些函数.vcxproj", "{73487A26-99D8-4BD3-85B1-A78212A94068}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73487A26-99D8-4BD3-85B1-A78212A94068}.Debug|Win32.ActiveCfg = Debug|Win32
+		{73487A26-99D8-4BD3-85B1-A78212A94068}.Debug|Win32.Build.0 = Debug|Win32
+		{73487A26-99D8-4BD3-85B1-A78212A94068}.Release|Win32.ActiveCfg = Release|Win32
+		{73487A26-99D8-4BD3-85B1-A78212A94068}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

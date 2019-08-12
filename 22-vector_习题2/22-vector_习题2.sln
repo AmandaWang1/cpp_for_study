@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "22-vector_习题2", "22-vector_习题2\22-vector_习题2.vcxproj", "{82B5720B-430F-497C-95A6-FF2F347D442A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{82B5720B-430F-497C-95A6-FF2F347D442A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{82B5720B-430F-497C-95A6-FF2F347D442A}.Debug|Win32.Build.0 = Debug|Win32
+		{82B5720B-430F-497C-95A6-FF2F347D442A}.Release|Win32.ActiveCfg = Release|Win32
+		{82B5720B-430F-497C-95A6-FF2F347D442A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
