@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "29-bitset_埃拉托斯特尼筛法_求素数", "29-bitset_埃拉托斯特尼筛法_求素数\29-bitset_埃拉托斯特尼筛法_求素数.vcxproj", "{56F391DD-22C1-47B0-A126-01ADEAD33083}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56F391DD-22C1-47B0-A126-01ADEAD33083}.Debug|Win32.ActiveCfg = Debug|Win32
+		{56F391DD-22C1-47B0-A126-01ADEAD33083}.Debug|Win32.Build.0 = Debug|Win32
+		{56F391DD-22C1-47B0-A126-01ADEAD33083}.Release|Win32.ActiveCfg = Release|Win32
+		{56F391DD-22C1-47B0-A126-01ADEAD33083}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
