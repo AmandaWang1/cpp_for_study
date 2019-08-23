@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "36-动态创建对象_new", "36-动态创建对象_new\36-动态创建对象_new.vcxproj", "{EE7A71A1-11FD-4EF8-AEDB-025D846D2F70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE7A71A1-11FD-4EF8-AEDB-025D846D2F70}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EE7A71A1-11FD-4EF8-AEDB-025D846D2F70}.Debug|Win32.Build.0 = Debug|Win32
+		{EE7A71A1-11FD-4EF8-AEDB-025D846D2F70}.Release|Win32.ActiveCfg = Release|Win32
+		{EE7A71A1-11FD-4EF8-AEDB-025D846D2F70}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

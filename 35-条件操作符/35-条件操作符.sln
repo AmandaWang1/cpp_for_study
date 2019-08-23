@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "35-条件操作符", "35-条件操作符\35-条件操作符.vcxproj", "{83763895-F7BD-4838-A145-73AE8E92E717}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83763895-F7BD-4838-A145-73AE8E92E717}.Debug|Win32.ActiveCfg = Debug|Win32
+		{83763895-F7BD-4838-A145-73AE8E92E717}.Debug|Win32.Build.0 = Debug|Win32
+		{83763895-F7BD-4838-A145-73AE8E92E717}.Release|Win32.ActiveCfg = Release|Win32
+		{83763895-F7BD-4838-A145-73AE8E92E717}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
