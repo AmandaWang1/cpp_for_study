@@ -1,3 +1,12 @@
+/********************************************************************************
+* @File name: main.cpp
+* @Author: 王晨
+* @Email:1741312828@qq.com
+* @Version: 1.1
+* @Date: 2019-8-22
+* @Description: 计算两数之和。
+********************************************************************************/
+
 #include <iostream>
 #include <cmath>
 #include <cstdlib>
@@ -6,6 +15,12 @@
 
 using namespace std;
 
+/**
+  * @brief  主函数
+  * @param  无
+  * @retval 无
+  * @attention  无
+  */
 int main()
 {
    float y, x, z, f;
@@ -24,7 +39,7 @@ int main()
 		cout<<"再选择一次吧(期待脸)"<<endl;
 		cout<<"不要再拒绝我了"<<endl;
 		cin>>answer2;
-	}while(!answer2.empty()&& answer2[0] == 'n');
+	}while(!answer2.empty()&& answer2[0] != 'y');
   }
 
   system("cls"); //清屏
