@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "45-函数_习题", "45-函数_习题\45-函数_习题.vcxproj", "{70FD69E8-F891-4D3E-8C31-4E8678462C39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70FD69E8-F891-4D3E-8C31-4E8678462C39}.Debug|Win32.ActiveCfg = Debug|Win32
+		{70FD69E8-F891-4D3E-8C31-4E8678462C39}.Debug|Win32.Build.0 = Debug|Win32
+		{70FD69E8-F891-4D3E-8C31-4E8678462C39}.Release|Win32.ActiveCfg = Release|Win32
+		{70FD69E8-F891-4D3E-8C31-4E8678462C39}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
