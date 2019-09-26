@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "53-类的构造函数", "53-类的构造函数\53-类的构造函数.vcxproj", "{FD27056E-38A2-442B-8CC1-4584FA9DA825}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD27056E-38A2-442B-8CC1-4584FA9DA825}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FD27056E-38A2-442B-8CC1-4584FA9DA825}.Debug|Win32.Build.0 = Debug|Win32
+		{FD27056E-38A2-442B-8CC1-4584FA9DA825}.Release|Win32.ActiveCfg = Release|Win32
+		{FD27056E-38A2-442B-8CC1-4584FA9DA825}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+﻿  main.cpp
+e:\c++\c++程序\cpp_for_study\77-管理指针成员\77-管理指针成员\smart-ptr.h(42): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+e:\c++\c++程序\cpp_for_study\77-管理指针成员\77-管理指针成员\smart-ptr.h(42): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+e:\c++\c++程序\cpp_for_study\77-管理指针成员\77-管理指针成员\smart-ptr.h(42): error C2238: 意外的标记位于“;”之前
+e:\c++\c++程序\cpp_for_study\77-管理指针成员\77-管理指针成员\smart-ptr.h(11): error C2061: 语法错误: 标识符“U_Ptr”
+e:\c++\c++程序\cpp_for_study\77-管理指针成员\77-管理指针成员\smart-ptr.h(11): error C2612: 基/成员初始值设定项列表中的非法后缀“)”
+e:\c++\c++程序\cpp_for_study\77-管理指针成员\77-管理指针成员\main.cpp(55): fatal error C1004: 发现意外的文件尾

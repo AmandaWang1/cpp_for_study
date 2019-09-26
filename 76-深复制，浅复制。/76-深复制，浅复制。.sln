@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "76-深复制，浅复制。", "76-深复制，浅复制。\76-深复制，浅复制。.vcxproj", "{F802DC9E-E6E0-42D1-8FDE-6BFB87B9B12E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F802DC9E-E6E0-42D1-8FDE-6BFB87B9B12E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F802DC9E-E6E0-42D1-8FDE-6BFB87B9B12E}.Debug|Win32.Build.0 = Debug|Win32
+		{F802DC9E-E6E0-42D1-8FDE-6BFB87B9B12E}.Release|Win32.ActiveCfg = Release|Win32
+		{F802DC9E-E6E0-42D1-8FDE-6BFB87B9B12E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

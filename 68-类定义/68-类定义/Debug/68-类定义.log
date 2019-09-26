@@ -1,0 +1,5 @@
+﻿  main.cpp
+e:\c++\c++程序\cpp_for_study\68-类定义\68-类定义\main.cpp(68): error C2664: “sales_item::sales_item(sales_item &&)”: 无法将参数 1 从“std::string”转换为“std::string &”
+  e:\c++\c++程序\cpp_for_study\68-类定义\68-类定义\main.cpp(68): note: 非常量引用只能绑定到左值
+e:\c++\c++程序\cpp_for_study\68-类定义\68-类定义\main.cpp(69): error C2664: “sales_item::sales_item(sales_item &&)”: 无法将参数 1 从“std::string”转换为“std::string &”
+  e:\c++\c++程序\cpp_for_study\68-类定义\68-类定义\main.cpp(69): note: 非常量引用只能绑定到左值

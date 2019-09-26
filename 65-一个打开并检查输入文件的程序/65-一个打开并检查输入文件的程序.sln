@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "65-一个打开并检查输入文件的程序", "65-一个打开并检查输入文件的程序\65-一个打开并检查输入文件的程序.vcxproj", "{95CADD98-38E5-420E-AC66-A9248E9CF8AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95CADD98-38E5-420E-AC66-A9248E9CF8AD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{95CADD98-38E5-420E-AC66-A9248E9CF8AD}.Debug|Win32.Build.0 = Debug|Win32
+		{95CADD98-38E5-420E-AC66-A9248E9CF8AD}.Release|Win32.ActiveCfg = Release|Win32
+		{95CADD98-38E5-420E-AC66-A9248E9CF8AD}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

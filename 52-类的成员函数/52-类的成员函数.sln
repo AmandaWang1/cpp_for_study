@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "52-类的成员函数", "52-类的成员函数\52-类的成员函数.vcxproj", "{7155DC6D-384B-4BE3-8746-715C2CEF472C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7155DC6D-384B-4BE3-8746-715C2CEF472C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{7155DC6D-384B-4BE3-8746-715C2CEF472C}.Debug|Win32.Build.0 = Debug|Win32
+		{7155DC6D-384B-4BE3-8746-715C2CEF472C}.Release|Win32.ActiveCfg = Release|Win32
+		{7155DC6D-384B-4BE3-8746-715C2CEF472C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
