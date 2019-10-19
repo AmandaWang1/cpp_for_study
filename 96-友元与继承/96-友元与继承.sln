@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "96-友元与继承", "96-友元与继承\96-友元与继承.vcxproj", "{5264BCAE-4511-4728-B76E-1586BDD9E935}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5264BCAE-4511-4728-B76E-1586BDD9E935}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5264BCAE-4511-4728-B76E-1586BDD9E935}.Debug|Win32.Build.0 = Debug|Win32
+		{5264BCAE-4511-4728-B76E-1586BDD9E935}.Release|Win32.ActiveCfg = Release|Win32
+		{5264BCAE-4511-4728-B76E-1586BDD9E935}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
