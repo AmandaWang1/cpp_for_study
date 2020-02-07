@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "99-纯虚函数与抽象类2", "99-纯虚函数与抽象类2\99-纯虚函数与抽象类2.vcxproj", "{BD6D0DE9-8812-4A9E-8ED7-FEBD418C29B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD6D0DE9-8812-4A9E-8ED7-FEBD418C29B3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BD6D0DE9-8812-4A9E-8ED7-FEBD418C29B3}.Debug|Win32.Build.0 = Debug|Win32
+		{BD6D0DE9-8812-4A9E-8ED7-FEBD418C29B3}.Release|Win32.ActiveCfg = Release|Win32
+		{BD6D0DE9-8812-4A9E-8ED7-FEBD418C29B3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

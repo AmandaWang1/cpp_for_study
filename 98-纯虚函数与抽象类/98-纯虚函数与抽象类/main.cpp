@@ -112,7 +112,7 @@ Square::Square(int len,int width) : Rectangle(len,width)
 
 int main()
 {
-	Circle a(8);
+	/*Circle a(8);
 	a.Draw();
 	cout<<endl;
 
@@ -120,7 +120,42 @@ int main()
 	Rectangle b(10,5);
 	b.Draw();
 
+	Square c(8);
+	c.Draw();
+	*/
 
+	int choice;  //选择
+	bool fQuit = false;  //用这个变量来选择是否要退出
+	Shape *sp;
+
+	//如果不是退出就循环
+	while(fQuit == false)
+	{
+		cout<<"(1)Circle (2)Rectangle (3)Square (0)Quit:";
+		cin>>choice;  //输入选择，可以输入1 2 3 0
+
+		switch(choice)
+		{
+		case 1:
+			sp = new Circle(5);
+			break;
+		case 2:
+			sp = new Rectangle(4,6);
+			break;
+		case 3:
+			sp = new Square(5);
+			break;
+		case 0:
+			fQuit = true;
+			break;
+		}
+		if(fQuit == false)
+		{
+			sp->Draw();
+			delete sp;
+			cout<<endl;
+		}
+	}
 
 	return 0;
 }
